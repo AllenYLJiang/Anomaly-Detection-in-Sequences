@@ -1,3 +1,6 @@
+Code can be downloaded from: 
+https://www.yunpan.com/surl_yted6pyBfk7 （Code：c5d4）
+
 Inference: 
 python data/ShanghaiTech/pose/multi_cls_auc.py 
 
