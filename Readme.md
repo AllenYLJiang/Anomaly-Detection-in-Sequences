@@ -1,5 +1,5 @@
 Code can be downloaded from: 
-https://www.yunpan.com/surl_yted6pyBfk7 （Code：c5d4）
+https://www.yunpan.com/surl_yttwXqUZRmu （Code：9e61, Password: The name of our paper）
 
 Inference: 
 python data/ShanghaiTech/pose/multi_cls_auc.py 
