@@ -17,4 +17,3 @@ revise input_frame in train_statespace.py
 
 Implementation of combining postures with displacement: 
 def normalize_data_transformed  in  models/training_state.py 
-
