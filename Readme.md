@@ -1,7 +1,7 @@
 Code can be downloaded from: 
-https://pan.baidu.com/s/1PzAMDFppzJObUPnI3-LMnQ (Code: lsn8, Password: The name of our paper)
-or
-https://www.yunpan.com/surl_ytiB6bB8kbe (Code：6d18, Password: The name of our paper)
+https://pan.baidu.com/s/17gWfXlkwHaCjSvkN5iQVbQ (Code: lpry, Password: The name of our paper) 
+or 
+https://www.yunpan.com/surl_ynAVLNN8THL (Code：7f5d, Password: The name of our paper) 
 
 Inference: 
 python data/ShanghaiTech/pose/multi_cls_auc.py 
